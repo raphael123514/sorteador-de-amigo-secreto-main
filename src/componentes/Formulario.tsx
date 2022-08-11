@@ -14,7 +14,7 @@ const Formulario = () => {
     
             </div>
             <div className={style.divComecar}>
-              <button type="button" disabled={true} className={style.botaoIniciar}>Iniciar Brincadeira</button>
+              {/* <button type="button" disabled={true} className={style.botaoIniciar}>Iniciar Brincadeira</button> */}
 
             </div>
 
