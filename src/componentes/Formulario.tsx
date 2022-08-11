@@ -3,7 +3,7 @@ import style from "./Formulario.module.scss";
 const Formulario = () => {
   return (
   
-  <form className={style.form}>
+    <form className={style.form}>
       <div className={style.divPrincipal}>
         <div className={style.divForm}>
           <div className={style.divCampos}>
