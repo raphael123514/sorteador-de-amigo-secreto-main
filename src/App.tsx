@@ -8,11 +8,10 @@ function App() {
     <BrowserRouter>
       <RecoilRoot>
         <Routes>
-          <Route path='/' element={Formulario}/>
+          <Route path='/' element={<Formulario />}/>
         </Routes>
       </RecoilRoot>
     </BrowserRouter>
-    // <Formulario />
   );
 }
 
